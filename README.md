@@ -1,4 +1,4 @@
-# DefaultClientMachineLearning
+# Default Client Prediction : Machine Learning
 Predict credit card default of clients Study the case of customers default payments and compares the predictive accuracy of probability of default using various methods : KNN, Logistic Regression, DA, NB, ANN, CT
 In recent years, the credit card issuers in Taiwan faced the cash and credit card debt crisis and the delinquency is expected to peak in the third quarter of 2006 (Chou, 2006). In order to increase market share, card-issuing banks in Taiwan over-issued cash and credit cards to unqualified applicants.
 This project falling under the field of crisis managment is therefore aimed at solving this problemetic by predicting the probability of default payment by credit card holders.
